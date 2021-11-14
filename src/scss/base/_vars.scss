@@ -3,9 +3,12 @@
 */
 
 $primary: #0c4bfa;
+$body-color: #fcd703;
+$text-color: ##24c992;
 body {
-color: $primary
+background-color: $body-color;
+color: $text-color;
 }
 text {
-color: #primary
+color: $text-color;
 }
